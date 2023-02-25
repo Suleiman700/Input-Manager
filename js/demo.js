@@ -1,5 +1,5 @@
 // Import the InputManager class
-import InputManager from "/input-manager/InputManager.js";
+import InputManager from "./input-manager/InputManager.js";
 
 // Create a new instance of InputManager
 const inputDemo = new InputManager('section-demo', 'input-demo')
