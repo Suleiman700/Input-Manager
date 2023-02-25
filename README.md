@@ -4,6 +4,12 @@
 
 Developers can use this plugin to improve the experience of their web applications by streamlining input handling and reducing the amount of boilerplate code they need to write. By leveraging the `InputManager`, developers can also ensure that input handling is consistent across their web applications and make it easier to maintain codebases. Overall, the `InputManager` can be a valuable tool for developers who want to create more efficient web applications.
 
+
+
+https://user-images.githubusercontent.com/25286081/221330304-4bf0c1ad-5a24-47bd-b66d-b4429c916439.mp4
+
+
+
 ### Usage
 
 ```html
